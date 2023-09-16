@@ -14,4 +14,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## &#x1F517; Link:
 Link do projeto pronto : https://github.com/Ihury/desafio_discover_rocketseat
+<br>
 Link da página: https://ihury.github.io/desafio_discover_rocketseat/
